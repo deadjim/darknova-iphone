@@ -1,8 +1,8 @@
-#Development roadmap
+#summary Basic Long-Term Dark Nova Roadmap
 
 = Introduction =
 
-Just a basic roadmap with target features for new versions.
+Just a basic long-term roadmap with target features for new versions.
 
 
 = Details =
