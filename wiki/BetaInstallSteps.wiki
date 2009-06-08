@@ -1,5 +1,5 @@
+#summary Installation instructions for beta testers installed pre-release versions of Dark Nova.
 #labels Phase-Deploy
-This doc contains simple instructions for QA testers to install pre-release versions of Dark Nova on their devices.
 
 = Introduction =
 
