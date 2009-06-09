@@ -8,7 +8,7 @@ For first time testers, you must first download the "Provisioing Profile" then i
 
 = Instructions =
 
-  # Download the provisioning profile from the downloads section here http://darknova-iphone.googlecode.com/files/DN_Ad_Hoc_1215b.mobileprovision
+  # Download the provisioning profile from the downloads section here http://code.google.com/p/darknova-iphone/downloads/list
   # Download a Dark Nova pre-release version from the downloads section.
   # Launch Itunes
   # Drop the provisioning profile on to the iTunes window
