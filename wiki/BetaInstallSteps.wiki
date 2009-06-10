@@ -1,16 +1,14 @@
-#summary Installation instructions for beta testers installed pre-release versions of Dark Nova.
+#summary Installation instructions for beta testers to install pre-release versions of Dark Nova.
 #labels Phase-Deploy
 
 = Introduction =
-
-For first time testers, you must first download the "Provisioing Profile" then install the game.
+For first time testers, you must first download the "Provisioning Profile" then install the game.
 
 
 = Instructions =
-
   # Download the provisioning profile from the downloads section here http://code.google.com/p/darknova-iphone/downloads/list
   # Download a Dark Nova pre-release version from the downloads section.
-  # Launch Itunes
-  # Drop the provisioning profile on to the iTunes window
-  # Drop the .ipa file (Dark Nova) on to the iTunes window
+  # Launch iTunes
+  # Drop the provisioning profile on to the iTunes window (Windows users will need to do File->Add Windows to Library)
+  # Drop the .ipa file (Dark Nova) on to the iTunes window (Windows users will need to do File->Add Windows to Library)
   # Sync your device.
