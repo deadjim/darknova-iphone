@@ -6,8 +6,8 @@ For first time testers, you must first download the "Provisioning Profile" then 
 
 
 = Instructions =
-  #Delete the App Store version of Dark Nova from your device and iTunes before loading the beta. 
-  #Download the provisioning profile from the downloads section here http://code.google.com/p/darknova-iphone/downloads/list
+  # Delete the App Store version of Dark Nova from your device and iTunes before loading the beta. 
+  # Download the provisioning profile from the downloads section here http://code.google.com/p/darknova-iphone/downloads/list
   # Download a Dark Nova pre-release version from the downloads section.
   # Launch iTunes
   # Drop the provisioning profile on to the iTunes window (Windows users will need to do File->Add Windows to Library)
