@@ -1,6 +1,8 @@
 #summary Feature Requests for Growing the Dark Nova Community
 = Community Ideas =
-Ideas for Growing the Dark Nova Community
+Ideas for changes to the game to help promote the DN community.
+
+(General community ideas are on another Wiki page.)
 
 === On-line Announcements ===
 At milestone points in the game (like upgrading a ship, retiring, etc) the user is offered the ability to post that achievement on on-line, straight from the app.
@@ -17,4 +19,3 @@ From within the game it should be possible to recommend the game to a friend. Po
 
 === On-line High Score Tables ===
 While an overall 'who scored the highest ever' is fun, the key here is to allow comparison with friends. One way to do this is via FB connect, showing your high scores alongside all your FB friends' high scores.
-
