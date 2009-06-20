@@ -6,7 +6,7 @@ This page is the Community Manager's page for plans to grow the Dark Nova commun
 (Community requirements for the game itself are on a separate Wiki page.)
 
 = Dates =
-Sunday June 26th - Get FB username for DN
+June 26th - Get FB username for DN
 
 = Post ideas =
 _Most of these should work for any medium: blog, FB & Twitter. Note when it's specific to a medium._
@@ -19,6 +19,9 @@ Mal? Han Solo? Avon?
 
 *Announce UserVoice stuff on FB*
 Wait for more fans for best result.
+
+*Mention criminal quests*
+Not everyone will realise you get different quests if you're on the wrong side of the police.
 
 = Site to get contact to promote DN =
 _Need to wait until the crashes have been dealt with before doing this - don't want bad review or posts just because it's a bit unstable at the moment_
@@ -35,4 +38,3 @@ iPhone, game, space, trader, elite, spacetrader, turn-based, roleplaying, drugwa
 = Ideas for later =
 DN forum
 DN Wiki
-
