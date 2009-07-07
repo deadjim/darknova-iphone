@@ -8,6 +8,8 @@ Initial sites to do this on are:
    * Facebook, using FB Connect
    * Twitter, using the Twitter API
 
+FB even has an Objective-C library for this: http://wiki.developers.facebook.com/index.php/Facebook_Connect_for_iPhone
+
 === Recommend to a friend ===
 From within the game it should be possible to recommend the game to a friend. Possible ways to do this are:
    * launch pre-filled email for the user to send to friends
