@@ -1,6 +1,14 @@
 #summary Ideas for changes to the game to help grow the DN community.
 (General community ideas are on another Wiki page.)
 
+=== Links to on-line presence ===
+Within the game have simple links that launch Safari to the following touch points on the web:
+- twitter
+- FB
+- darknova.net
+
+This is the simplest thing we can do that encourages users to follow us on FB and Twitter.
+
 === On-line Announcements ===
 At milestone points in the game (like upgrading a ship, retiring, etc) the user is offered the ability to post that achievement on on-line, straight from the app.
 
